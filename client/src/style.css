@@ -6,21 +6,21 @@
 :root {
   --white: #fff;
   --black: #000;
-  --gray-20: #ececf1;
-  --gray-50: #f7f7f8;
-  --gray-100: #ececec;
-  --gray-200: #e3e3e3;
-  --gray-300: #cdcdcd;
-  --gray-400: #999696;
-  --gray-500: #595959;
-  --gray-600: #424242;
-  --gray-700: #2f2f2f;
-  --gray-800: #212121;
-  --gray-850: #171717;
-  --gray-900: #0d0d0d;
-  --gizmo-gray-500: #999;
-  --gizmo-gray-600: #666;
-  --gizmo-gray-950: #0f0f0f;
+  --gray-20: #e0f2fe; /* sky.50 */
+  --gray-50: #bae6fd; /* sky.100 */
+  --gray-100: #7dd3fc; /* sky.200 */
+  --gray-200: #38bdf8; /* sky.300 */
+  --gray-300: #0ea5e9; /* sky.400 */
+  --gray-400: #0284c7; /* sky.500 */
+  --gray-500: #0369a1; /* sky.600 */
+  --gray-600: #075985; /* sky.700 */
+  --gray-700: #0c4a6e; /* sky.800 */
+  --gray-800: #0a3e58; /* custom color to match sky.850 */
+  --gray-850: #075985; /* sky.700 (reused for smoother gradient) */
+  --gray-900: #0a3e58; /* sky.800 */
+  --gizmo-gray-500: #0284c7; /* sky.500 */
+  --gizmo-gray-600: #0369a1; /* sky.600 */
+  --gizmo-gray-950: #0c4a6e; /* sky.800 */
   --font-size-xs: 0.75rem;
   --font-size-sm: 0.875rem;
   --font-size-base: 1rem;
