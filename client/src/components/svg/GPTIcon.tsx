@@ -7,7 +7,7 @@ export default function GPTIcon({
   size?: number;
   className?: string;
 }) {
-  const imageUrl = '/client/public/assets/favicon-32x32.png';
+  const imageUrl = '/assets/favicon-32x32.png';
 
   return (
     <img
